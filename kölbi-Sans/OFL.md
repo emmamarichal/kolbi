@@ -1,6 +1,6 @@
 Copyright 2022 The Rethink Sans Project Authors (https://github.com/hans-thiessen/Rethink-Sans)
 
-Copyright 2024 kölbi Sans Project Authors (https://github.com/kolbicr/kolbi-Sans)
+Copyright 2025 kölbi Sans Project Authors (https://github.com/kolbicr/kolbi/tree/main/kölbi-Sans)
 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.  
