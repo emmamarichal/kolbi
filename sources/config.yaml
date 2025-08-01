@@ -4,6 +4,7 @@
     axisOrder:
       - wght
     familyName: "Kolbi Sans"
+    cleanUp: true
     stat:
       KolbiSans[wght].ttf:
       - name: Weight
