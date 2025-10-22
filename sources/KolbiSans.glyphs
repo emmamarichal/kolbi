@@ -1,6 +1,9 @@
 {
 .appVersion = "3428";
 .formatVersion = 3;
+DisplayStrings = (
+"O/hungarumlautcomb.case Ő"
+);
 axes = (
 {
 name = Weight;
@@ -18432,7 +18435,7 @@ unicode = 210;
 glyphname = Ohungarumlaut;
 kernLeft = C;
 kernRight = D;
-lastChange = "2023-05-03 07:58:28 +0000";
+lastChange = "2025-10-22 15:19:12 +0000";
 layers = (
 {
 background = {
@@ -18726,7 +18729,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (246,0);
+pos = (276,0);
 ref = hungarumlautcomb.case;
 }
 );
@@ -26295,7 +26298,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (182,0);
+pos = (212,0);
 ref = hungarumlautcomb.case;
 }
 );
@@ -105875,7 +105878,7 @@ note = acutecomb.cap;
 },
 {
 glyphname = hungarumlautcomb.case;
-lastChange = "2025-10-22 14:42:38 +0000";
+lastChange = "2025-10-22 15:19:12 +0000";
 layers = (
 {
 anchors = (
@@ -105958,7 +105961,7 @@ width = 0;
 anchors = (
 {
 name = _top;
-pos = (146,700);
+pos = (116,700);
 },
 {
 name = top;

@@ -30870,7 +30870,7 @@ unicode = 42891;
 glyphname = a;
 kernLeft = a;
 kernRight = a;
-lastChange = "2025-08-07 14:15:01 +0000";
+lastChange = "2025-10-22 15:23:42 +0000";
 layers = (
 {
 anchors = (
@@ -30880,7 +30880,7 @@ pos = (238,0);
 },
 {
 name = ogonek;
-pos = (492,0);
+pos = (437,0);
 },
 {
 name = top;
@@ -31066,7 +31066,7 @@ pos = (230,0);
 },
 {
 name = ogonek;
-pos = (488,0);
+pos = (435,0);
 },
 {
 name = top;
@@ -33716,7 +33716,7 @@ unicode = 257;
 glyphname = aogonek;
 kernLeft = a;
 kernRight = a;
-lastChange = "2023-05-03 08:05:36 +0000";
+lastChange = "2025-10-22 15:23:42 +0000";
 layers = (
 {
 background = {
@@ -33894,7 +33894,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (345,0);
+pos = (290,0);
 ref = ogonekcomb;
 }
 );
@@ -34085,7 +34085,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (317,0);
+pos = (264,0);
 ref = ogonekcomb;
 }
 );
