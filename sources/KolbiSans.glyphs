@@ -1,10 +1,6 @@
 {
 .appVersion = "3428";
 .formatVersion = 3;
-DisplayStrings = (
-"‚„“”‘’\"'
-"
-);
 axes = (
 {
 name = Weight;
@@ -30787,7 +30783,7 @@ unicode = 42891;
 glyphname = a;
 kernLeft = a;
 kernRight = a;
-lastChange = "2025-08-07 14:14:37 +0000";
+lastChange = "2025-10-22 15:18:00 +0000";
 layers = (
 {
 anchors = (
@@ -30797,7 +30793,7 @@ pos = (238,0);
 },
 {
 name = ogonek;
-pos = (538,0);
+pos = (485,0);
 },
 {
 name = top;
@@ -30960,7 +30956,7 @@ pos = (247,0);
 },
 {
 name = ogonek;
-pos = (539,0);
+pos = (484,0);
 },
 {
 name = top;
@@ -33709,7 +33705,7 @@ unicode = 257;
 glyphname = aogonek;
 kernLeft = a;
 kernRight = a;
-lastChange = "2023-05-03 07:58:28 +0000";
+lastChange = "2025-10-22 15:18:00 +0000";
 layers = (
 {
 background = {
@@ -33896,7 +33892,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (323,0);
+pos = (270,0);
 ref = ogonekcomb;
 }
 );
@@ -34082,7 +34078,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (349,0);
+pos = (294,0);
 ref = ogonekcomb;
 }
 );
